@@ -20,8 +20,8 @@ git clone https://github.com/vinneaavs/AppChall.git
 4. **Jogue**: Assim que a aplicação estiver aberta, siga as instruções na tela para jogar. Pense em um prato de comida favorito e responda às perguntas feitas pelo computador. No final, o computador tentará adivinhar o seu prato!
 
 ## Como Jogar - Forma alternativa
-1. Na raiz do projeto tem um ZipExe.zip onde está anexo o executavel do jogo.
-   ![image](https://github.com/vinneaavs/AppChall/assets/66374755/5d8aaac5-9380-4de1-ac3f-eef8f0958601)
+1. Na raiz do projeto tem uma pasta ZipExe onde está o zip do o executavel do jogo.
+![image](https://github.com/vinneaavs/AppChall/assets/66374755/85fb5ee7-4088-4bda-9158-fad137ff17f5)
 
 
 ## Funcionalidades
