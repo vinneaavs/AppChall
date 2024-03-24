@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -75,9 +75,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Node.cs" />
-    <Compile Include="Prato.cs" />
-    <Compile Include="JogoGourmet.cs" />
+    <Compile Include="Models\Node.cs" />
+    <Compile Include="Models\Prato.cs" />
+    <Compile Include="Services\JogoGourmet.cs" />
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
