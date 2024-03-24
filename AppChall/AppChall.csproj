@@ -107,6 +107,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="ZipExe\AppChall_ArquivoExe.zip" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
