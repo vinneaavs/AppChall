@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppChall", "AppChall\AppChall.csproj", "{F7081B9A-A52F-46DC-9491-3647C7BF99EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{CDB343A5-51F0-4F1B-A6FA-E9CD12C91D5A}"
+	ProjectSection(SolutionItems) = preProject
+		AppChall\logo.png = AppChall\logo.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7081B9A-A52F-46DC-9491-3647C7BF99EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7081B9A-A52F-46DC-9491-3647C7BF99EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7081B9A-A52F-46DC-9491-3647C7BF99EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7081B9A-A52F-46DC-9491-3647C7BF99EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9B51BE-EA74-4465-9BE0-F9D74E84F1DB}
+	EndGlobalSection
+EndGlobal
